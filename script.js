@@ -2,6 +2,15 @@ let interviewList = [];
 let rejectedList = [];
 let currentStatus = "all-btn";
 
+
+
+// add a comment 
+
+
+
+
+
+
 let totalJobCount = document.getElementById("total-job-count");
 let interviewCount = document.getElementById("interview-count");
 let rejectedCount = document.getElementById("rejected-count");
